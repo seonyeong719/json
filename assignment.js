@@ -1,6 +1,6 @@
 const musics = [
   {
-    music_title: "사건의 지평선",
+    music_title: "사건의dml 지평선",
     lyricist: "윤하",
     song_writer: "윤하, JEWNO(손준호)",
     arranger: "JEWNO(손준호), 숀(SHAUN)",
